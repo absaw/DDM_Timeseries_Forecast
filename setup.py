@@ -6,8 +6,6 @@ setup(
     description="PyTorch Probabilistic Time Series Modeling framework",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    author="Kashif Rasul",
-    author_email="kashif.rasul@zalando.de",
     url="https://github.com/zalandoresearch/pytorch-ts",
     license="MIT",
     packages=find_packages(exclude=["tests"]),
